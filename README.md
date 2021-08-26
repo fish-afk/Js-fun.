@@ -1,2 +1,2 @@
 # Js-fun.
-some short/small projects in vanilla js.
+ short/small projects in vanilla js.
